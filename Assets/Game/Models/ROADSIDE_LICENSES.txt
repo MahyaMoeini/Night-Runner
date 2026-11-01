@@ -1,0 +1,21 @@
+Roadside models used by RoadsideDecor (CC0 1.0, Kenney)
+
+Only a few files from each pack were imported, under Assets/Game/Resources/Roadside/.
+
+Nature Kit — trees and bushes
+https://kenney.nl/assets/nature-kit
+tree_oak, tree_default, tree_pineDefaultA, tree_tall, tree_small, plant_bush, plant_bushLarge
+
+City Kit (Suburban) — houses and a short fence
+https://kenney.nl/assets/city-kit-suburban
+house_type01, house_type05, house_type12, house_type15, fence_short
+
+City Kit (Commercial) — shops and towers
+https://kenney.nl/assets/city-kit-commercial
+low_buildingC, low_buildingF, low_buildingN, large_buildingB, skyscraperA, skyscraperB
+
+City Kit (Roads) — street lamp
+https://kenney.nl/assets/city-kit-roads
+light_curved
+
+License: CC0 1.0. Attribution is not required. Credit Kenney if you want to.

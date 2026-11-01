@@ -1,0 +1,13 @@
+Kenney Car Kit was NOT auto-imported (signed download requires browser).
+
+Exact pack page (CC0):
+https://kenney.nl/assets/car-kit
+
+Manual import (optional upgrade over built-in VehicleVisualBuilder):
+1. Open the link above in a browser and download the ZIP.
+2. Extract GLB/FBX cars into Assets/Game/Models/Kenney/
+3. Drag a car model under Player (and optionally under StaticObstacle / MovingObstacle)
+4. Disable VehicleVisualBuilder on that object
+5. Keep existing root colliders, scripts, pooling, headlights/underglow/effects
+
+Current project uses lightweight procedural car visuals via VehicleVisualBuilder so obstacles are clearly cars without the Kenney ZIP.

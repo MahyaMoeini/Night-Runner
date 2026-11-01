@@ -1,0 +1,29 @@
+Asset licenses for EndlessNightRunner audio/textures
+
+Poly Haven - asphalt_02 (1K JPG maps)
+- Source: https://polyhaven.com/a/asphalt_02
+- License: CC0 1.0
+- Files: Assets/Game/Textures/Road/asphalt_02_*_1k.jpg
+
+Mixkit Sound Effects (preview MP3s used for lightweight SFX)
+- License: Mixkit License (free for commercial/personal use; attribution appreciated, not required)
+- https://mixkit.co/license/#sfxFree
+- Files in Assets/Game/Resources/Audio/:
+  - engine_hum.mp3 (sfx 2514)
+  - collision.mp3 (sfx 1555, Toy car crash)
+  - coin.mp3 (sfx 2069, Winning a coin, video game)
+  - fuel.mp3 (sfx 3155, Game liquid hit)
+  - click.mp3
+  - game_over.mp3
+  - brake.mp3 (sfx 565)
+
+Mixkit Free Stock Music
+- License: Mixkit License (free for commercial/personal use)
+- https://mixkit.co/license/#musicFree
+- Track ID 1091 downloaded as racing_bgm.mp3
+- Direct file: https://assets.mixkit.co/music/1091/1091.mp3
+
+Kenney Car Kit (NOT imported automatically - download blocked by signed CDN)
+- Page: https://kenney.nl/assets/car-kit
+- License: CC0 1.0
+- Manual download required in browser via Kenney donate/continue download flow
